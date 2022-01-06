@@ -1,0 +1,162 @@
+<!doctype html>
+<html>
+<head>
+
+		<link rel="stylesheet" href="style1.css">
+
+
+
+</head>
+<body id="body">
+	<div class="cotainer">
+		
+		<div class="header">
+			
+			<nav>
+				<ul>
+					<li><a href="index.html" class="active"  target="_blank">HOME</a></li>
+					<li><a href="about.html"  target="_blank">ABOUT</a></li>
+					<li><a href="gallary.html"  target="_blank">GALLARY</a></li>
+					<li><a href="contact.html"  target="_blank">CONTACT</a></li>
+					<li><a href="services.html"  target="_blank">SERVICES</a></li>
+					
+					<input type="search" autofocus id="search" placeholder="search...">
+					<button value="SEARCH" >SEARCH</button>
+					<P>TAK TAZ</P>
+				</ul>
+			
+			</nav>
+		</div>
+		<h2>BES MODEL 2018</h2>
+		<div class="main">
+			
+			<div class="betwen">
+				<p>Design Your Own Car Online.
+				All Custom Car 
+				Is Made With
+				Love In Downtown Los Angeles.
+				Imagine What You Can Design.
+				Started. Design your own car,</p>
+				<img src="img/d.jpg" width="200" height="200">
+				<div class="overlay">
+				<br>
+				 200$
+				</div>
+			</div>
+			<div class="betwen">
+				<p>Design Your Own Car Online.
+				All Custom Car Is Made With
+				Love In Downtown Los Angeles.
+				Imagine What You Can Design.
+				 Started. Design your own car,</p>
+				<img src="img/e.jpg" width="200" height="200">
+				<div class="overlay">
+				<br>
+				 400$
+				</div>
+			</div>
+			<div class="betwen">
+				<p>Design Your Own Car Online.
+				All Custom Car Is Made With
+				Love In Downtown Los Angeles.
+				Imagine What You Can Design.
+				 Started. Design your own car
+				 ,</p>
+				<img src="img/b.jpg" width="200" height="200">
+				<div class="overlay">
+				<br>
+				 	450$
+				</div>
+			</div>
+			
+		</div>
+		<div class="section second">
+				<div class="sec">
+					<img src="img/n.jpg" width="300" class="image">
+					<p>Design Your Own Car Online.
+					All Custom Car Is Made With
+					Love In Downtown Los Angeles.
+					Imagine What You Can Design.
+					 Started. Design your own car,
+					 Love In Downtown Los Angeles.
+					Imagine What You Can Design.
+					 Started. Design your own car
+					 All Custom Car Is Made With
+					Love In Downtown Los Angeles.
+					Imagine What You Can Design.
+					 Started. Design your own car,
+					 Love In Downtown Los Angeles.
+					Imagine What You Can Design.</p>
+				</div>
+				<div class="sec">
+					<img src="img/m.jpg" width="300" class="image">
+					<p>Design Your Own Car Online.
+					All Custom Car Is Made With
+					Love In Downtown Los Angeles.
+					Imagine What You Can Design.
+					 Started. Design your own car,
+					 Love In Downtown Los Angeles.
+					Imagine What You Can Design.
+					 Started. Design your own car
+					 All Custom Car Is Made With
+					Love In Downtown Los Angeles.
+					Imagine What You Can Design.
+					 Started. Design your own car,
+					 Love In Downtown Los Angeles.
+					Imagine What You Can Design.</p>
+				</div>
+		</div>
+	
+		<div class="footer">
+			<div class="list">
+				<ul>
+					<li>Fashion design is an exciting</li>
+					<li>you can design it with Lotta! </li>
+					<li>Fashion design is an exciting</li>
+					<li>cessories and home goods on </li>
+					<li>cessories and home goods on </li>
+				</ul>
+			</div>
+			<div class="list">
+				<ul>
+					<li>you can design it with Lotta! </li>
+					<li>Fashion design is an exciting</li>
+					<li>constantly evolving field.</li>
+					<li>cessories and home goods on </li>
+					<li>cessories and home goods on </li>
+				</ul>
+			</div>
+		
+			<div>
+				<form>
+						<div class="textarea">
+						<label>enter your name</label></br>
+						<input type="text"><br><br>
+						</div>
+						<div class="textarea">
+						<label>enter your email</label><br>
+						<input type="text"><br>
+						</div>
+						<br><br>
+						<div class="textarea">
+						<textarea cols="48.5" rows="4"></textarea>
+					
+						<input type="submit" value="SEND">
+						</div>
+			</div>
+			<div id="join">
+				<a href="www.facebook.com"><img src="img/facebook.png" width="43px" ></a>
+				<a href="www.twitter.com"><img src="img/images (1).jpg" width="40px"></a>
+				<a href="www.instagram.com"><img src="img/instagram.png" width="40px"></a>
+				<a href="www.youtube.com"><img src="img/youtube.png"  width="40px"></a>
+				<a href="www.google.com"><img src="img/google.png" width="40px" ></a>
+				
+			
+			</div>
+		
+		</div>
+	</div>
+	<div>
+
+</body>
+</html>

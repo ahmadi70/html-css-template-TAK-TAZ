@@ -1,0 +1,86 @@
+<!doctype html>
+<html>
+<head>
+
+		<link rel="stylesheet" href="stylegall.css">
+
+
+
+</head>
+<body>
+	<div class="cotainer">
+		<img src="img/l.jpg" width="150" height="150" id="logo">
+		<div class="header">
+			
+			<nav>
+				<ul>
+					<li><a href="index.html" target="_blank">HOME</a></li>
+					<li><a href="about.html"  target="_blank">ABOUT</a></li>
+					<li><a href="gallary.html" target="_blank" class="active">GALLARY</a></li>
+					<li><a href="contact.html"  target="_blank">CONTACT</a></li>
+					<li><a href="sevices.html"  target="_blank">SERVICES</a></li>
+					<input type="search" autofocus id="search" placeholder="search...">
+				</ul>
+				
+				
+			</nav>
+		</div>
+		<div id="wasat">
+				
+			</div>
+		<div id="gallary">
+			
+			<div id="hatraf">
+				<img src="img/m.jpg" width="250" height="250">
+				<img src="img/i.jpg" width="250" height="250">
+				<img src="img/g.jpg" width="250" height="250">
+				<img src="img/o.jpg" width="250" height="250">
+				<img src="img/d.jpg" width="250" height="250">
+				<img src="img/b.jpg" width="250" height="250">
+			</div>
+		</div>
+		<div class="footer">
+			<div class="list">
+				<ul>
+					<li>Fashion design is an exciting</li>
+					<li>you can design it with Lotta! </li>
+					<li>Fashion design is an exciting</li>
+					<li>cessories and home goods on </li>
+					<li>cessories and home goods on </li>
+				</ul>
+			</div>
+			<div class="list">
+				<ul>
+					<li>you can design it with Lotta! </li>
+					<li>Fashion design is an exciting</li>
+					<li>constantly evolving field.</li>
+					<li>cessories and home goods on </li>
+					<li>cessories and home goods on </li>
+				</ul>
+			</div>
+			<div>
+				<form>
+						<div class="textarea">
+						<label>enter your name</label></br>
+						<input type="text"><br><br>
+						</div>
+						<div class="textarea">
+						<label>enter your email</label><br>
+						<input type="text"><br>
+						</div>
+						<br><br>
+						<div class="textarea">
+						<textarea cols="40" rows="4"></textarea>
+					
+						<input type="submit">
+						</div>
+					</div>
+					
+				</form>
+			
+			</div>
+		</div>
+		
+		
+</body>
+</html>

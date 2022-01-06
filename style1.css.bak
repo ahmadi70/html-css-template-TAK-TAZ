@@ -1,0 +1,321 @@
+		.header{
+			width:100%;
+			background-color:black;
+			
+		}
+		nav li{
+			display:inline-block;
+			padding:15px;
+			list-style:none;
+			
+			margin-bottom:5px;
+			
+		}
+		nav ul li a{
+			text-decoration:none;
+			color:white;
+			padding:2px 5px;
+			
+		}
+		nav{
+			
+			height:90px;
+			position:fixed;
+			background-color:black;
+			width:100%;
+			top:0px;
+		
+			
+		}
+		nav p{
+			
+			margin-top:100px;
+			font-size:70px;
+			font-family:Stencil;
+			animation:parograph 3s linear ;
+			text-shadow:3px 3px 3px white;
+			margin-left:200px;
+			position:absolute;
+			
+		}
+		@keyframes parograph{
+			0%{
+				opacity:0.0;
+				font-size:10px;
+			}
+			10%{
+				opacity:0.1;
+				
+			}
+			20%{
+				opacity:0.2;
+				
+			}
+			30%{
+				opacity:0.3;
+				
+			}
+			40%{
+				opacity:0.4;
+				
+			}
+			50%{
+				opacity:0.5;
+				
+			}
+			60%{
+				opacity:0.6;
+				
+			}
+			70%{
+				opacity:0.7;
+				
+			}
+			80%{
+				opacity:0.8;
+				
+			}
+			90{
+				opacity:0.9;
+				}
+			100%{
+				opacity:1;
+				font-size:70px;
+				
+			}
+		}
+		#search{
+			margin-left:100px;
+			background:url("img/images (44).png") 0px ;
+			background-repeat:no-repeat;
+			padding:2px 6px;
+			border:none;
+			
+			
+			border-radius:30px;
+			
+			
+		}
+		.main{
+			margin:auto;
+			display:inline-block;
+			background-color:black;
+			margin-bottom:80px;
+		}
+		.main img{
+			
+			padding-left:50px;
+			padding-bottom:30px;
+		}
+		.betwen{
+			border-left:2px solid gray;
+			display:inline-block;
+			width:30%;
+			border-right:2px solid gray;
+			margin-left:25px;
+			
+		}
+		body{
+			 background-image: url("img/fff.png") ;
+			background-repeat:no-repeat;
+			
+			background-size:cover;
+			
+			background-attachment:fixed;
+		}
+	
+			
+		
+		.main p{
+		color:white;
+		padding-left:15px;
+		padding-right:15px;
+		
+		
+		}
+		h2{
+			color:white;
+			margin-top:300px;
+			
+			background-color:black;
+			display:inline-block;
+			padding:5px 15px;
+		}
+		.footer{
+		background-color:black;
+		color:white;
+		border-top:2px solid gray;
+		margin-top:60px;
+		height:300px;
+		width:100%;
+		
+		}
+		.footer li{
+			list-style:square;
+			padding:3px;
+			
+		}
+		.footer div{
+			display:inline-block;
+			
+			float:left;
+			
+			
+		}
+		
+		
+		
+		#input{float:left;}
+		#label{
+			margin-right:50px;
+		}
+		.list{
+			width:25%;
+		}
+		a:link{
+			color:blue;}
+		nav a:hover{border-bottom:2px solid white;}
+		.active{
+			color:red;
+			border:2px solid red;
+			font-size:larger;
+		}
+		#hatraf img{
+			border:3px solid gray;
+			border-radius:50px;
+			box-shadow:16px 15px 7px gray;
+			margin-left:30px;
+			margin-top:20px;
+		}
+		#gallary{
+			margin-top:200px;
+		}
+		#wasat img{
+			display:inline-block;
+			margin:auto;
+			margin-left:220px;
+			border:7px solid gray;
+			border-radius:20px;
+		}
+		.textarea{
+			float:right;
+			margin-left:10px;
+		}
+		form{
+			margin-left:20px;
+		}
+		form:first-child{
+			margin-top:15px;
+		}
+		input[type=submit] {
+		width: 83%;
+		background-color: #4CAF50;
+		color: white;
+		padding: 10px 20px;
+		margin: 5px 0;
+		border: none;
+		border-radius: 4px;
+		cursor: pointer;
+		}
+		button{
+			width:80px;
+			height:24px;
+			color:white;
+			background-color:#002966;
+			boredr:2px solid #002966;
+			border-radius:30px;
+		
+		}
+		#join{
+			margin-left:50px;
+			
+		}
+		#join img{
+			
+			top:0px;
+			border:3px solid gray;
+			border-radius:20px;
+			margin-left:20px;
+		}
+		input[type=text]{
+			padding:6px 16px
+		}
+		
+		.overlay{
+			opacity:0;
+			color:#3f1728;
+			font-size:50px;
+			
+			background-color:white;
+			width:0%;
+			height:100%;
+			top:0px;
+			position:absolute;
+			transition:opacity 2s , width 2s;
+		}
+		.paraover{
+			
+		}
+		.betwen{
+			position:relative;
+			
+		}
+		.betwen:hover .overlay{
+			opacity:0.7 ;
+			width:100%;
+		}
+		.image{
+			margin-top:20px;
+			margin-left:20px;
+			animation:filter 5s linear infinite;
+			
+		}
+		.sec p{
+			clear:both;
+			bottom:20px;
+			display:inline-block;
+			
+			
+			float:right;
+		}
+		.sec{
+			width:100%;
+			background-color:black;
+			color:white;
+			border-bottom:3px solid gray;
+		}
+		.section second{
+			width:
+			
+		}
+		@keyframes filter{
+			0%{
+				filter:brightness(200%);
+				filter:drop-shadow(3px 3px 5px gray);
+				
+			}
+			25%{
+				filter:contrast(300%);
+				
+			}
+			50%{
+				filter:hue-rotate(90deg);
+				filter:drop-shadow(3px 3px 5px gray);
+			}
+			75%{
+				filter:invert(100%);
+				
+			}
+			100%{
+				filter:saturate(800%);
+				filter:drop-shadow(3px 3px 5px gray);
+			}
+		}
+		
+		
+		
+		
+		
+		
+		
+		
